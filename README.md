@@ -2,6 +2,14 @@
 
 A Recipe App for Android, build with Native Kotlin & Jetpack Compose
 
+# Feature
+ - Home
+ - Catalog Recipe By Category
+ - Catalog Recipe By Area
+ - Recipe Favorite
+ - Detail of Recipe
+ - Add Recipe To Favorite
+
 # Screenshoot
 
 <p align="center">
@@ -34,6 +42,3 @@ A Recipe App for Android, build with Native Kotlin & Jetpack Compose
 - MVVM
 - Clean Architecture
 - Modularization
-
-Build Using Jetpack Compose, Clean Architecture, MVVM Architecture, Modularization Pattern, Hilt,
-Room, Material Design 3, Paging 3, Ktor Client, Compose Destination
