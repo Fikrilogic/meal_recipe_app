@@ -8,10 +8,11 @@ A Recipe App for Android, build with Native Kotlin & Jetpack Compose
     <img src="art/home.png" alt="Home screen" width="30%" />
     <img src="art/home.png" alt="Home screen2" width="30%" />
     <img src="art/home.png" alt="Home screen3" width="30%" />
-
-    <img src="art/home.png" alt="Home screen4" width="30%" />
-    <img src="art/home.png" alt="Home screen5" width="30%" />
-    <img src="art/home.png" alt="Home screen6" width="30%" />
+</p>
+<p align="center">
+    <img src="art/home.png" alt="Home screen" width="30%" />
+    <img src="art/home.png" alt="Home screen2" width="30%" />
+    <img src="art/home.png" alt="Home screen3" width="30%" />
 </p>
 
 # Tech Stack
