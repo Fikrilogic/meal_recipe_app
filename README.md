@@ -13,7 +13,7 @@ A Recipe App for Android, build with Native Kotlin & Jetpack Compose
 <p align="center">
     <img src="art/detail1.png" alt="Detail Screen 1" width="30%" />
     <img src="art/detail2.png" alt="Detail Screen 2" width="30%" />
-    <img src="art/detail3.png" alt="Detail Screen 3" width="30%" />
+    <img src="art/detail 3.png" alt="Detail Screen 3" width="30%" />
 </p>
 
 # Tech Stack
