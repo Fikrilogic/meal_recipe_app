@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meal Recipe</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="genre_popular">Popular</string>
+    <string name="genre_top_rated">Top Rated</string>
+    <string name="genre_now_playing">Now Playing</string>
+    <string name="genre_upcoming">Upcoming</string>
+</resources>
